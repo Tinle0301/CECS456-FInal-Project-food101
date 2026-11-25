@@ -1,0 +1,59 @@
+{
+ "loss": 0.6754535436630249,
+ "accuracy": 0.7836,
+ "precision": 0.7817705050290303,
+ "recall": 0.7836000000000001,
+ "f1": 0.7818632169614681,
+ "top_confused": [
+  [
+   "steak",
+   "filet_mignon",
+   63
+  ],
+  [
+   "filet_mignon",
+   "steak",
+   59
+  ],
+  [
+   "chocolate_cake",
+   "chocolate_mousse",
+   54
+  ],
+  [
+   "chocolate_mousse",
+   "chocolate_cake",
+   36
+  ],
+  [
+   "chocolate_mousse",
+   "ice_cream",
+   33
+  ],
+  [
+   "steak",
+   "prime_rib",
+   28
+  ],
+  [
+   "ice_cream",
+   "chocolate_mousse",
+   24
+  ],
+  [
+   "prime_rib",
+   "steak",
+   24
+  ],
+  [
+   "filet_mignon",
+   "prime_rib",
+   20
+  ],
+  [
+   "apple_pie",
+   "pancakes",
+   19
+  ]
+ ]
+}
